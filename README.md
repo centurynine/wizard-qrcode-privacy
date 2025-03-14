@@ -1,0 +1,1 @@
+# wizard-qrcode-privacy
